@@ -81,7 +81,7 @@ This allows for easy tracking of all raised requests and mechanics' responses.
 ![Filling Details](RaisingRequest.jpg)
 
 ### SMS Sent Confirmation
-![SMS Confirmation](MechanicReceivedMessage.jpg)
+![SMS Confirmation](MechanicRecievedMessage.jpg)
 ## How to Contribute
 
 1. Fork the repository.
